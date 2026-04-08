@@ -28,6 +28,7 @@ Os notebooks deste repositório seguem uma abordagem didática baseada em exempl
 | 07 | [Aprendizado Supervisionado Prático](07_aprendizado_supervisionado.ipynb) | Implementação prática de Regressão e Classificação com scikit-learn |
 | 08 | [Aprendizado Não Supervisionado Prático](08_aprendizado_nao_supervisionado.ipynb) | Clusterização com K-Means e Redução de Dimensionalidade com PCA |
 | 09 | [Aprendizado por Reforço](09_aprendizado_por_reforco.ipynb) | Q-Learning do zero treinando um agente a jogar em um labirinto virtual |
+| 10 | [Trabalhando com Imagens](10_trabalhando_com_imagens.ipynb) | Conceitos básicos de visão computacional |
 
 ## 👩‍💻 Público-alvo
 
